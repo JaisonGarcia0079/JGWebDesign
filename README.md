@@ -61,7 +61,8 @@
 
             <h3>NU GUNDAM</h3>
 
-            <img src="nugundam_img1.png" alt="NU GUNDAM">
+            <img src="../images/nugundam_img1.png" alt="NU GUNDAM"> 
+
 
             <p>
                 The NU Gundam is from a film called "Mobile Suit Gundam: Char's Counterattack" and was designed by the incredible Yutaka Izubuchi. The color design
@@ -76,7 +77,7 @@
 
             <h3>SCOPEDOG</h3>
 
-            <img src="scopedog_img2.png" alt="SCOPEDOG">
+            <img src="../images/scopedog_img2.png" alt="SCOPEDOG">
 
             <p>
                 The Scopedog is from an anime series by the name of "Armored Trooper VOTOMS" and is designed by industry legend Kunio Okawara. This is a very small 
@@ -92,7 +93,7 @@
 
             <h3>IDEON</h3>
 
-            <img src="ideon_img3.png" alt="IDEON">
+            <img src="../images/ideon_img3.png" alt="IDEON">
 
             <p>
                 The Ideon is from the anime series "Space Runaway Ideon" and was designed by Yuichi Higuchi. This is a very unusual design, but it's one that I can't 
@@ -107,7 +108,7 @@
 
             <h3>GUNBUSTER</h3>
 
-            <img src="gunbuster_img4.png" alt="Gunbuster">
+            <img src="../images/gunbuster_img4.png" alt="Gunbuster">
 
             <p>
                 The Gunbuster is from the OVA series "Aim for the Top! Gunbuster," and was designed by Kazutaka Miyatake. It's massive, bulky, but insanely cool. Out of all the
