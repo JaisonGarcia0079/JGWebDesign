@@ -1,0 +1,1 @@
+Hello! This is still a work in progress obviously. My intention with this site is to show off some of my favorite robot/mecha designs. If I can make each option had a pop up gallery or something displaying more images of each robot, I think that could be cool. I just have to see if there's any way I can try and accomplish that code wise. Plenty of time for me to research!
