@@ -108,7 +108,7 @@
 
             <h3>GUNBUSTER</h3>
 
-            <img src="images/gunbuster_img4.png" alt="Gunbuster">
+            ![image alt](https://github.com/JaisonGarcia0079/JGWebDesign/blob/56368b9e37c0ecf516b948b99a255cb7475436e1/images/gunbuster_img4.png) 
 
             <p>
                 The Gunbuster is from the OVA series "Aim for the Top! Gunbuster," and was designed by Kazutaka Miyatake. It's massive, bulky, but insanely cool. Out of all the
