@@ -5,7 +5,7 @@
 
         body {
             font-family: Arial, sans-serif;
-            background-color: rgb(16, 19, 80); 
+            background-color: rgb(40, 40, 44); 
             text-align: center;
             color: white;
         }
