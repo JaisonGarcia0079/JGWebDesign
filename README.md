@@ -5,7 +5,7 @@
 
         body {
             font-family: Arial, sans-serif;
-            background-color: rgb(16, 19, 80);
+            background-color: rgb(16, 19, 80); 
             text-align: center;
             color: white;
         }
@@ -16,7 +16,7 @@
 
         .website_description {
             text-align: center;
-            border: 2px solid white;
+            border: 4px solid rgb(115,215,255);
             padding: 10px;
         }
 
@@ -34,6 +34,18 @@
             width: 300px;
             height: 300px;
             object-fit: contain;
+        }
+
+        .mecha {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+        }
+
+        .mechas img {
+            border: 4px solid rgb(115,215,255);
+            box-sizing: border-box;
         }
 
     </style>
