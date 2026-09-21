@@ -1,2 +1,0 @@
-I'm feeling like I'm getting a good groove, and once I get all of these software and ways to do code down I think the next assignments can be a breeze. 
-I think just more pointers with how to navigate and work through GitHub Pages SPECIFICALLY would be much more appreciated. Thanks!
